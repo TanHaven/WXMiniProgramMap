@@ -1,0 +1,6 @@
+<!--next/next.wxml-->
+<text>next/next.wxml</text>
+
+
+<button bindtap="enable">enable</button>
+<button bindtap="disable">disable</button>
